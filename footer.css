@@ -1,0 +1,246 @@
+.footer {
+    width: 100%;
+    height: 546px;
+
+}
+
+.footer-b {
+    width: 100%;
+    height: 102.8px;
+    padding: 30px 0;
+    border-bottom: 1px solid #dedede;
+}
+
+.footer-c {
+    height: 42px;
+
+}
+
+.footer-c li {
+    float: left;
+    width: 297px;
+}
+
+.f-div {
+    position: relative;
+    width: 180px;
+
+    padding-left: 45px;
+    margin: 0 36px;
+}
+
+.duo {
+
+    position: absolute;
+    width: 36px;
+    height: 42px;
+    left: 0;
+    top: 0;
+}
+
+.f-p {
+    overflow: hidden;
+    width: 180px;
+    height: 42px;
+    line-height: 42px;
+    font-size: 18px;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #444;
+}
+
+.d1 {
+    background-repeat: no-repeat;
+    background-position: 0 -192px;
+    background-image: url(images/duo.png);
+}
+
+.d2 {
+    background-repeat: no-repeat;
+    background-position: -41px -192px;
+    background-image: url(images/duo.png);
+}
+
+.d3 {
+    background-repeat: no-repeat;
+    background-position: -82px -192px;
+    background-image: url(images/duo.png);
+}
+
+.d4 {
+    background-repeat: no-repeat;
+    background-position: -123px -192px;
+    background-image: url(images/duo.png);
+}
+
+.footer-mid {
+    height: 200px;
+    padding: 20px 0;
+}
+
+.footer-m {
+    height: 160px;
+
+}
+
+.footer-content {
+    width: 198px;
+
+    float: left;
+    line-height: 22px;
+}
+
+.footer-content h5 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.f-ul {
+    width: 198px;
+    height: 132px;
+
+
+}
+
+.f-ul li {
+    width: 198px;
+    height: 22px;
+    float: left;
+}
+
+.footer-r {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    float: right;
+    width: 200px;
+    height: 150px;
+}
+
+.footer-r h5 {
+    margin-bottom: 15px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.fff {
+    text-align: right;
+}
+
+.fw {
+    text-align: right;
+}
+
+.fw i {
+    font-size: 6px;
+    color: #343030;
+    margin-left: 4px;
+}
+
+.footer-content a:hover {
+    color: red;
+}
+
+.footer-end {
+    height: 243.2px;
+}
+
+.end-c {
+    height: 243.2px;
+    padding: 15px 0;
+    border-top: 1px solid #e1e1e1;
+    text-align: center;
+}
+
+.end-p {
+    height: 18px;
+}
+
+.end-c span {
+    color: #ccc;
+    margin: 0 7px;
+}
+
+.end-box {
+    height: 108px;
+    padding: 10px 0;
+    line-height: 22px;
+    color: #999;
+}
+
+.box-all {
+    height: 66px;
+}
+
+.all-p {
+    height: 22px;
+    line-height: 22px;
+
+    text-align: center;
+}
+
+.all-p a {
+    color: #999;
+    padding: 10px 0;
+}
+
+.box-all a:hover {
+    color: red;
+}
+
+.last {
+    height: 36.4px;
+    margin: 25px 0;
+
+}
+
+.last-all {
+    overflow: hidden;
+    display: inline-block;
+    margin: 0 3px;
+    width: 103px;
+    height: 32px;
+    line-height: 1000px;
+    background-image: url(images/duo.png);
+    background-repeat: no-repeat;
+    background-position: -205px -111px;
+}
+
+.p2 {
+    background-position: -205px -74px;
+}
+
+.p3 {
+    background-position: -205px -37px;
+}
+
+.p4 {
+    background-position: 0 -66px;
+    background-image: url(images/last.png);
+}
+
+.p5 {
+
+    background-position: 0 -155px;
+}
+
+.p6 {
+    background-image: url(images/last.png);
+    background-position: 0 -99px;
+}
+
+.p7 {
+    width: 70px;
+    background-image: url(images/last.png);
+    background-position: -104px -99px;
+}
+
+.p8 {
+    width: 88px;
+    background-image: url(images/last.png);
+    background-position: -104px -131px;
+}
+
+
+
